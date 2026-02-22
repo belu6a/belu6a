@@ -18,4 +18,7 @@ My CV
 
 Testing Documentation
 
-Follow me
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=2098d4)](https://t.me/belu6a)
+![Discord](https://img.shields.io/badge/-Discord(belu6a)-1f1f1f?style=for-the-badge&logo=discord&logoColor=5662f6)
+
