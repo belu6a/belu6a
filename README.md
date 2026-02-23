@@ -20,7 +20,7 @@
 ## Testing Documentation
 - [Checklists](https://github.com/belu6a/Checklists)
 - [Test-Cases](https://github.com/belu6a/Test-Cases)
-![Bug-Reports]
+- [Bug-Reports](https://github.com/belu6a/Bug-Reports)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=2098d4)](https://t.me/belu6a)
