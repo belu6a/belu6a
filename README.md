@@ -16,7 +16,10 @@ My CV
 ![Git](https://img.shields.io/badge/-Git-1f1f1f?style=for-the-badge&logo=git&logoColor=)
 ![Bash](https://img.shields.io/badge/-Bash-1f1f1f?style=for-the-badge&logo=gnubash&logoColor=495254)
 
-Testing Documentation
+## Testing Documentation
+![Checklists]
+![Test-Cases]
+![Bug-Reports]
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=2098d4)](https://t.me/belu6a)
