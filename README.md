@@ -25,7 +25,7 @@
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=2098d4)](https://t.me/belu6a)
 ![Discord](https://img.shields.io/badge/-Discord(belu6a)-1f1f1f?style=for-the-badge&logo=discord&logoColor=5662f6)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=2098d4)](www.linkedin.com/in/anna-vech)
 
 
 
